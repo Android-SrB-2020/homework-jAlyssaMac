@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Jessica MacDonald</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        My name is Jessica MacDonald.
+        I am in web and mobile app development at NBCC.
+        I live in Dieppe with my boyfriend of 5 years, <b>Jake</b>.
+        I am the NBCC Moncton Student Union President, and I am
+        incredibly excited to graduate so I can start my
+        life as a developer, get a house, het a dog and settle down.
+        My name is Jessica MacDonald.
+        I am in web and mobile app development at NBCC.
+        I live in Dieppe with my boyfriend of 5 years, <b>Jake</b>.
+        I am the NBCC Moncton Student Union President, and I am
+        incredibly excited to graduate so I can start my
+        life as a developer, get a house, het a dog and settle down.
+        My name is Jessica MacDonald.
+        I am in web and mobile app development at NBCC.
+        I live in Dieppe with my boyfriend of 5 years, <b>Jake</b>.
+        I am the NBCC Moncton Student Union President, and I am
+        incredibly excited to graduate so I can start my
+        life as a developer, get a house, het a dog and settle down.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
