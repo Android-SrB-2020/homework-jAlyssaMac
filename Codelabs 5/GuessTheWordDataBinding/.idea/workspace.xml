@@ -6,32 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44dbce3f-c55d-4ac7-a724-5cdf67cc45d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/game/GameFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/game/GameFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/game/GameViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/game/GameViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreViewModelFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreViewModelFactory.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/title/TitleFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/title/TitleFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/anim/slide_in_right.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/anim/slide_in_right.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/anim/slide_out_left.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/anim/slide_out_left.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/layout/game_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/layout/game_fragment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/layout/main_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/layout/main_activity.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/layout/score_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/layout/score_fragment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/layout/title_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/layout/title_fragment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/mipmap-anydpi-v26/ic_guess_it.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/mipmap-anydpi-v26/ic_guess_it.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/mipmap-anydpi-v26/ic_guess_it_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/mipmap-anydpi-v26/ic_guess_it_round.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/navigation/main_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/navigation/main_navigation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordLiveData/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordLiveData/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GuessTheWordViewModel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWordViewModel/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="44dbce3f-c55d-4ac7-a724-5cdf67cc45d4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,8 +191,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GuessTheWordTransformation" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
